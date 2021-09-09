@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(12, 24, 46);
+    color: rgb(255, 240, 181);
+}
+h1{
+    font-size: 120px;
+    font-family: 'Cormorant', serif;
+}
+.pink{
+    color: rgb(255, 157, 173);
+}
+
+p{
+    font-size: 48px;
+    font-family: 'Cormorant', serif;
+    font-weight: 600;
+}
+
+.orange{
+    color: rgb(247, 187, 77);
+}
+
+.yellow{
+    color: rgb(235, 247, 76);
+}
+
+.grey{
+    color: rgb(135, 241, 135);
+}
